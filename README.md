@@ -62,7 +62,7 @@ Part 2 focuses on developing deep learning models to classify text snippets base
 
 ---
 
-## **Part 3a and 3b: Text Classification Using Transformer and Pretrained Language Models**  
+## **Part 3: Text Classification Using Transformer and Pretrained Language Models**  
 Part 3 requires the development of a transformer-based model for text classification. The model should be implemented using randomly initialized embeddings and transformer encoder layers. Additionally, a pre-trained language model such as BERT or RoBERTa should be fine-tuned for this task.  
 
 ### **Approach**  
